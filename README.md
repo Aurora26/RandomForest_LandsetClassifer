@@ -8,10 +8,10 @@
  
 # 一些结果图片
 <img src="https://github.com/Aurora26/RandomForest_LandsetClassifer/blob/master/imgs/1.png" width="600" height="200" alt="Data" align=center />
-<img src="https://github.com/Aurora26/RandomForest_LandsetClassifer/blob/master/imgs/2.png" width="300" height="300" alt="Word frequency" align=center />
-<img src="https://github.com/Aurora26/RandomForest_LandsetClassifer/blob/master/imgs/3.png" width="300" height="300" alt="Area of tourism" align=center />
-<img src="https://github.com/Aurora26/RandomForest_LandsetClassifer/blob/master/imgs/4.png" width="300" height="300" alt="Tourism in Europe" align=center />
-<img src="https://github.com/Aurora26/RandomForest_LandsetClassifer/blob/master/imgs/5.png" width="300" height="300" alt="Level distribution of tourism " align=center />
-<img src="https://github.com/Aurora26/RandomForest_LandsetClassifer/blob/master/imgs/6.png" width="300" height="300" alt="Learning accuracy" align=center />
+<img src="https://github.com/Aurora26/RandomForest_LandsetClassifer/blob/master/imgs/2.png" width="300" height="300" alt="2011 Classifer Map" align=center />
+<img src="https://github.com/Aurora26/RandomForest_LandsetClassifer/blob/master/imgs/3.png" width="300" height="300" alt="2011 Classifer Map with mask" align=center />
+<img src="https://github.com/Aurora26/RandomForest_LandsetClassifer/blob/master/imgs/4.png" width="600" height="300" alt="Error rate" align=center />
+<img src="https://github.com/Aurora26/RandomForest_LandsetClassifer/blob/master/imgs/5.png" width="300" height="300" alt="Area Classifer " align=center />
+
 
 *该工程将随机森林的方法运用到遥感数据地物分类上，并对多通道的特征进行处理和分析。*
